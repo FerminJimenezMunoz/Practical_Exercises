@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 5b62ed3396223d744a3fbd149b343352
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5131193269129966175
+    second: 1655998610684_0
+  - first:
+      213: -7582343184794007473
+    second: 1655998610684_1
+  - first:
+      213: 2279750938009725217
+    second: 1655998610684_2
+  - first:
+      213: -8707142887060794972
+    second: 1655998610684_3
+  - first:
+      213: -5507071969825461850
+    second: 1655998610684_4
+  - first:
+      213: -3532638788118249548
+    second: 1655998610684_5
+  - first:
+      213: -6020408374390754345
+    second: 1655998610684_6
+  - first:
+      213: -6733916730912940494
+    second: 1655998610684_7
+  - first:
+      213: 4826394209281518575
+    second: 1655998610684_8
+  - first:
+      213: -2217642693228175338
+    second: 1655998610684_9
+  - first:
+      213: -375179141796563179
+    second: 1655998610684_10
+  - first:
+      213: -4929856774947679527
+    second: 1655998610684_11
+  - first:
+      213: 6823399201190154273
+    second: 1655998610684_12
+  - first:
+      213: -6592600060959976865
+    second: GreenDuck_Side_1
+  - first:
+      213: 7594700930486986774
+    second: GreenDuck_Side_2
+  - first:
+      213: -6871439530202691959
+    second: GreenDuck_Side_3
+  - first:
+      213: -263188109533873135
+    second: GreenDuck_UP_1
+  - first:
+      213: -4315900645380078868
+    second: GreenDuck_UP_2
+  - first:
+      213: 5408327208959945700
+    second: GreenDuck_UP_3
+  - first:
+      213: -7408446612426303228
+    second: GreenDuck_Hit
+  - first:
+      213: 6703510979381035519
+    second: GreenDuck_Dead_1
+  - first:
+      213: -3081010327303645607
+    second: GreenDuck_Dead_2
+  - first:
+      213: 9171780256131702302
+    second: GreenDuck_Dead_3
+  - first:
+      213: 9165595862541970832
+    second: GreenDuck_Dead_4
+  - first:
+      213: 4760783821848622461
+    second: BlueDuck_Side_1
+  - first:
+      213: -4855433768131405567
+    second: BlueDuck_Side_2
+  - first:
+      213: 4061080397930827937
+    second: BlueDuck_Side_3
+  - first:
+      213: 6129026127765619526
+    second: BlueDuck_UP_1
+  - first:
+      213: 2628892101698739453
+    second: BlueDuck_UP_2
+  - first:
+      213: 7167276377251225927
+    second: BlueDuck_UP_3
+  - first:
+      213: -7539560094145893086
+    second: BlueDuck_Hit
+  - first:
+      213: -338947958990084362
+    second: BlueDuck_Dead_1
+  - first:
+      213: 6529018904046731482
+    second: BlueDuck_Dead_2
+  - first:
+      213: 4725581782017266524
+    second: BlueDuck_Dead_3
+  - first:
+      213: -7415275543808810897
+    second: BlueDuck_Dead_4
+  - first:
+      213: 4300117461920113888
+    second: RedDuck_Side_1
+  - first:
+      213: -3653720018947096578
+    second: RedDuck_Side_2
+  - first:
+      213: 5115487672778178354
+    second: RedDuck_Side_3
+  - first:
+      213: -2542453785706299091
+    second: RedDuck_UP_1
+  - first:
+      213: -2956634902620040698
+    second: RedDuck_UP_2
+  - first:
+      213: 9193943781193847342
+    second: RedDuck_UP_3
+  - first:
+      213: 2679799536357991467
+    second: RedDuck_Hit
+  - first:
+      213: 3685735062883808140
+    second: RedDuck_Dead_1
+  - first:
+      213: 8180886852946026337
+    second: RedDuck_Dead_2
+  - first:
+      213: 4018146449885171686
+    second: RedDuck_Dead_3
+  - first:
+      213: 5688736692292226096
+    second: RedDuck_Dead_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1655998610684_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52fd509719a53740800000000000000
+      internalID: 5131193269129966175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 231
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48cf31eb0b16c690800000000000000
+      internalID: -7582343184794007473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 231
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ee64466d43af10800000000000000
+      internalID: 2279750938009725217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 232
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a11c283da30a2780800000000000000
+      internalID: -8707142887060794972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 232
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9ea0e9833f293b0800000000000000
+      internalID: -5507071969825461850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 229
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bff17a2dbb89fec0800000000000000
+      internalID: -3532638788118249548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f6a12b76337ca0800000000000000
+      internalID: -6020408374390754345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 175
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23edfda39625c82a0800000000000000
+      internalID: -6733916730912940494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 175
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb2a3646fbcaf240800000000000000
+      internalID: 4826394209281518575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 175
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e46758b95931e0800000000000000
+      internalID: -2217642693228175338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 176
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517741eee881bcaf0800000000000000
+      internalID: -375179141796563179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 175
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d0b7f161a59bb0800000000000000
+      internalID: -4929856774947679527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1655998610684_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 177
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1209f9beb6591be50800000000000000
+      internalID: 6823399201190154273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_Side_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5213447c216284a0800000000000000
+      internalID: -6592600060959976865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_Side_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 133
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186101024cc56960800000000000000
+      internalID: 7594700930486986774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_Side_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 127
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98601ba572eb3a0a0800000000000000
+      internalID: -6871439530202691959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_UP_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 131
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c702e0fc7f85cf0800000000000000
+      internalID: -263188109533873135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_UP_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 131
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2cd3aca37da14c0800000000000000
+      internalID: -4315900645380078868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_UP_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 129
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb232721fc3e0b40800000000000000
+      internalID: 5408327208959945700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_Hit
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 127
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40952e0ce09ef2990800000000000000
+      internalID: -7408446612426303228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 127
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff100f118b7a70d50800000000000000
+      internalID: 6703510979381035519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 127
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95691c36e6d0e35d0800000000000000
+      internalID: -3081010327303645607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 127
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1edbac7c85b84f70800000000000000
+      internalID: 9171780256131702302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDuck_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 126
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09daa9520ecb23f70800000000000000
+      internalID: 9165595862541970832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_Side_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 91
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75b6b989a3b11240800000000000000
+      internalID: 4760783821848622461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_Side_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109571c86b80e9cb0800000000000000
+      internalID: -4855433768131405567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_Side_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a018fafa1bdb5830800000000000000
+      internalID: 4061080397930827937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_UP_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ce8c4accae0550800000000000000
+      internalID: 6129026127765619526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_UP_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 88
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc55922073bb7420800000000000000
+      internalID: 2628892101698739453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_UP_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 84
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741ab1924e7477360800000000000000
+      internalID: 7167276377251225927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_Hit
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 87
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d29b96a0a1e5790800000000000000
+      internalID: -7539560094145893086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 87
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f66d0b80a0db4bf0800000000000000
+      internalID: -338947958990084362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 87
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0048bd91cbb9a50800000000000000
+      internalID: 6529018904046731482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 87
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535232f793a49140800000000000000
+      internalID: 4725581782017266524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueDuck_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 87
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6062a34e26a71990800000000000000
+      internalID: -7415275543808810897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_Side_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e3327c061dab30800000000000000
+      internalID: 4300117461920113888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_Side_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effbce140016b4dc0800000000000000
+      internalID: -3653720018947096578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_Side_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 42
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f35d47fecddf640800000000000000
+      internalID: 5115487672778178354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_UP_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 47
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21012d90c367bcd0800000000000000
+      internalID: -2542453785706299091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_UP_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 47
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6029fc2983ce7f6d0800000000000000
+      internalID: -2956634902620040698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_UP_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 43
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2298fa4823779f70800000000000000
+      internalID: 9193943781193847342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_Hit
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 43
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24efd9ea7f803520800000000000000
+      internalID: 2679799536357991467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 43
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833467038c562330800000000000000
+      internalID: 3685735062883808140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 43
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd281af39588170800000000000000
+      internalID: 8180886852946026337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 43
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef07e838e253c730800000000000000
+      internalID: 4018146449885171686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedDuck_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 43
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0fc4a1e372fe40800000000000000
+      internalID: 5688736692292226096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 748e9750196a7e14d975f7785d657ea5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
